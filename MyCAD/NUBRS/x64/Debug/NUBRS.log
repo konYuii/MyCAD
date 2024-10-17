@@ -1,0 +1,142 @@
+﻿  main_point.cpp
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VKBase.h(13,9): warning C4005: “DefineHandleTypeOperator”: 宏重定义
+  (编译源文件“cpp/main_point.cpp”)
+      C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VKBase.h(7,9):
+      参见“DefineHandleTypeOperator”的前一个定义
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VKBase.h(1056,30): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VKBase.h(1055,31): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VKBase.h(1054,25): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VKBase.h(1755,77): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VKBase.h(1830,82): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VKBase.h(1830,48): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VKBase.h(1884,92): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VkBase+.h(187,45): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VkBase+.h(188,79): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VkBase+.h(189,83): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VkBase+.h(192,71): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VkBase+.h(193,57): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VkBase+.h(1215,34): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VkBase+.h(1456,62): warning C4267: “return”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VkBase+.h(1568,53): warning C4267: “return”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\EasyVulkan.h(57,70): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\EasyVulkan.h(242,46): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\NUBRS.h(44,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\NUBRS.h(53,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\NUBRS.h(61,12): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\NUBRS.h(79,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\NUBRS.h(107,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\cpp\main_point.cpp(115,39): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VkBase+.h(846,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+      C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VkBase+.h(846,51):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VkBase+.h(916,11):
+          查看对正在编译的函数 模板 实例化“std::unique_ptr<uint8_t [],std::default_delete<uint8_t []>> vulkan::texture::LoadFile_Internal<uint8_t>(const _T0 *,size_t,VkExtent2D &,formatInfo)”的引用
+          with
+          [
+              _T0=uint8_t
+          ]
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VkBase+.h(848,54): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\hpp\VkBase+.h(850,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(389,75): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(389,75):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\NUBRS\cpp\main_point.cpp(31,38):
+          查看对正在编译的函数 模板 实例化“VkVertexInputBindingDescription &std::vector<VkVertexInputBindingDescription,std::allocator<VkVertexInputBindingDescription>>::emplace_back<int,size_t,VkVertexInputRate>(int &&,size_t &&,VkVertexInputRate &&)”的引用
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(858,24):
+          查看对正在编译的函数 模板 实例化“_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<int,unsigned __int64,VkVertexInputRate>(int &&,unsigned __int64 &&,VkVertexInputRate &&)”的引用
+          with
+          [
+              _Ty=VkVertexInputBindingDescription
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(776,20):
+          查看对正在编译的函数 模板 实例化“_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<int,unsigned __int64,VkVertexInputRate>(int &&,unsigned __int64 &&,VkVertexInputRate &&)”的引用
+          with
+          [
+              _Ty=VkVertexInputBindingDescription
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(791,13):
+          查看对正在编译的函数 模板 实例化“void std::_Construct_in_place<VkVertexInputBindingDescription,_Ty,unsigned __int64,VkVertexInputRate>(VkVertexInputBindingDescription &,_Ty &&,unsigned __int64 &&,VkVertexInputRate &&) noexcept”的引用
+          with
+          [
+              _Ty=int
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(399,14):
+          查看对正在编译的函数 模板 实例化“_Ty *std::construct_at<_Ty,int,unsigned __int64,VkVertexInputRate>(_Ty *const ,int &&,unsigned __int64 &&,VkVertexInputRate &&) noexcept(<expr>)”的引用
+          with
+          [
+              _Ty=VkVertexInputBindingDescription
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(403,82): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(390,90): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“cpp/main_point.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(390,90):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(791,13):
+          查看对正在编译的函数 模板 实例化“void std::_Construct_in_place<VkVertexInputBindingDescription,_Ty,unsigned __int64,VkVertexInputRate>(VkVertexInputBindingDescription &,_Ty &&,unsigned __int64 &&,VkVertexInputRate &&) noexcept”的引用
+          with
+          [
+              _Ty=int
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(399,14):
+          查看对正在编译的函数 模板 实例化“_Ty *std::construct_at<_Ty,int,unsigned __int64,VkVertexInputRate>(_Ty *const ,int &&,unsigned __int64 &&,VkVertexInputRate &&) noexcept”的引用
+          with
+          [
+              _Ty=VkVertexInputBindingDescription
+          ]
+  
+  NUBRS.vcxproj -> C:\Users\ztmys\Documents\Postgraduate\MyCAD\MyCAD\x64\Debug\NUBRS.exe
